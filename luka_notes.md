@@ -7,3 +7,5 @@ Had to modify the ebcli_installer.py in _install_ebcli def:
     returncode = _exec_cmd(install_args, quiet)
 
 Had to fix bug: https://github.com/onnela-lab/beiwe-backend/issues/319
+
+Per Eli’s instructions after, change these to: … @sentry.io/1234567
