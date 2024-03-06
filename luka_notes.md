@@ -1,3 +1,9 @@
+Main docs for backend: 
+https://github.com/onnela-lab/beiwe-backend/
+
+Beiwe deply docs: 
+https://github.com/onnela-lab/beiwe-backend/wiki/Deployment-Instructions---Scalable-Deployment
+
 Running ssh -i /Users/ruzic/.ssh/ruzicl ec2-user@34.212.76.65
 
 Had to modify the ebcli_installer.py in _install_ebcli def:
