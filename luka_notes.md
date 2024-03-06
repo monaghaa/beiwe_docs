@@ -9,3 +9,7 @@ Had to modify the ebcli_installer.py in _install_ebcli def:
 Had to fix bug: https://github.com/onnela-lab/beiwe-backend/issues/319
 
 Per Eli’s instructions after, change these to: … @sentry.io/1234567
+
+Fire-base configuration -- that is done via Beiwe developers
+However, Luka has keys he will provide.  This enables surveys to be taken on phones. 
+https://github.com/onnela-lab/beiwe-backend/wiki/Firebase-Configuration
